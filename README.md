@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on: Hotel Booking System & Payment Integration
 - 🌱 I’m learning: Advanced Python, Flask, and API Development
 - 💬 Ask me about: HTML, CSS, JavaScript, Python
-- 📫 Reach me: your-email@gmail.com
+- 📫 Reach me: tharuanimesh@gmail.com
 - ⚡ Fun fact: I enjoy debugging and building real-world projects
 
 ---
