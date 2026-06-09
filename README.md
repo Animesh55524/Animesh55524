@@ -31,15 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Animesh55524&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh55524&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
