@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Animesh Chaudhary</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Flask+Developer;Web+Designer+%7C+Problem+Solver;I+Love+Building+Real+Projects" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Bug+Hunter+%F0%9F%90%9E;Web+Enthusiast;Nepal+%F0%9F%87%B3%F0%9F%87%B5+Developer" /> </p>
 
 ---
 
 ## ⚡ About Me
 
+- 💻 Passionate developer from Nepal 🇳🇵
+- 🧠 I love solving bugs and building clean UI systems
+- ⚙️ Focused on full-stack development & real-world projects
+- 🔥 Always learning and improving every day
 - 🔭 I’m currently working on **Hotel Booking System**
 - 🌱 Learning **Advanced Python, Flask & APIs**
 - 💡 Interested in **Web Development & Automation**
@@ -31,8 +33,8 @@
 
 ---
 
-📊 GitHub Stats (Stable Version)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Animesh55524&show_icons=true&theme=radical&cache_seconds=86400" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh55524&layout=compact&theme=radical&cache_seconds=86400" height="180"/> </p>
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Animesh55524&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh55524&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/> </p>
 
 ---
 
@@ -46,9 +48,11 @@
 
 ## 🐍 Contribution Snake (Animated)
 
-<p align="center">
-  <img src="https://github.com/Animesh55524/Animesh55524/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> </p>
+---
+
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Animesh55524&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
 
 ---
 
@@ -58,6 +62,11 @@
 - 💳 Nepal Payment Gateway (eSewa + Khalti)
 - 🌐 Portfolio Website
 - ⚙️ API Development Projects
+
+---
+
+📈 Activity Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Animesh55524&theme=tokyo-night" /> </p>
 
 ---
 
