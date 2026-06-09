@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Animesh Chaudhary</h1>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Bug+Hunter+%F0%9F%90%9E;Web+Enthusiast;Nepal+%F0%9F%87%B3%F0%9F%87%B5+Developer" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=Animesh55524&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/Animesh55524?style=for-the-badge&color=00f7ff" /> <img src="https://img.shields.io/github/stars/Animesh55524?style=for-the-badge&color=00f7ff" /> </p>
+
 
 ---
 
@@ -56,11 +58,8 @@
 
 ---
 
-## 📈 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Animesh55524&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+📈 ACTIVITY OVERVIEW
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Animesh55524&theme=react-dark&hide_border=true" /> </p>
 
 ---
 
@@ -69,7 +68,7 @@
 <p align="center">
   <a href="https://github.com/Animesh55524"><img src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
   <a href="https://linkedin.com/in/Animesh55524"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-  <a href="mailto:tharuanimesh@email.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail"></a>
+  <a href="mailto:tharuanimesh@Gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail"></a>
 </p>
 
 ---
@@ -79,3 +78,7 @@
 <p align="center">
   <i>"Code is like art — you build it, break it, and make it better."</i>
 </p>
+
+⚡ SYSTEM SIGNATURE
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=120&section=footer"/> </p>
+
