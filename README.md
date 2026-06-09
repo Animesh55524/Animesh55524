@@ -47,11 +47,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> </p>
 ---
 
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Animesh55524&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
-
----
-
 ## 🚀 Featured Projects
 
 - 🏨 Hotel Booking System (Flask + Payment Integration)
