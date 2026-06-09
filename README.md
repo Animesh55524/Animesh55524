@@ -31,6 +31,11 @@
 
 ---
 
+📊 GitHub Stats (Stable Version)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Animesh55524&show_icons=true&theme=radical&cache_seconds=86400" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh55524&layout=compact&theme=radical&cache_seconds=86400" height="180"/> </p>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
