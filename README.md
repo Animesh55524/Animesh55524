@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Animesh Tharu</h1>
+<h1 align="center">Hi 👋, I'm Animesh Chaudhary</h1>
 <h3 align="center">Full Stack Developer | Python & Web Enthusiast | Problem Solver</h3>
 
 ---
